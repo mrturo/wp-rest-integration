@@ -1,11 +1,11 @@
 <html>
 	<head>
-		<title>API REST - Ejemplos Simples</title>
+		<title>REST INTEGRATION - SIMPLE</title>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 	</head>
 	<body>
-	<a href="/api-rest/simple">(←Volver)</a> | 
-	<strong>API REST - Ejemplos Simples - PHP</strong><BR /><BR />
+	<a href="/wp-rest-integration/simple">(←Volver)</a> | 
+	<strong>REST INTEGRATION - SIMPLE - PHP</strong><BR /><BR />
 	<?php
 		$apiUrl = 'https://mindicador.cl/api';
 		//Es necesario tener habilitada la directiva allow_url_fopen para usar file_get_contents
